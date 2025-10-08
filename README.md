@@ -2,7 +2,7 @@
 static ip assign
 
 
-1) Identify the network interface name
+ Identify the network interface name
    ```
    ip link show
    ip addr
